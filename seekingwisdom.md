@@ -8,10 +8,7 @@ In a world overflowing with information and distractions, Proverbs 2 reminds us 
 
 ---
 
-> “My son, if you accept my words  
-> and store up my commands within you,  
-> turning your ear to wisdom  
-> and applying your heart to understanding…”  
+> “My son, if you accept my words and store up my commands within you, turning your ear to wisdom and applying your heart to understanding…”  
 > — [*Proverbs 2:1–2*](https://www.biblegateway.com/passage/?search=Proverbs+2:1-2&version=NKJV)
 
 In an age where voices are loud but understanding is rare, the ancient wisdom of Proverbs 2 speaks to the heart of our modern struggles.  
@@ -36,8 +33,7 @@ Wisdom doesn’t shout over the noise—it whispers to those who will listen.
 We live in the information age, yet many are starved of wisdom.  
 We can search anything on Google, but we can’t download discernment.
 
-> “Then you will understand the fear of the LORD  
-> and find the knowledge of God.”  
+> “Then you will understand the fear of the LORD and find the knowledge of God.”  
 > — [*Proverbs 2:5*](https://www.biblegateway.com/passage/?search=Proverbs+2:5&version=NKJV)
 
 This “fear” of the Lord isn’t terror—it’s reverence. It’s understanding that God’s way of seeing things is higher, clearer, and safer than ours.  
@@ -86,8 +82,7 @@ Because the quality of your life will rise or fall with the quality of your wisd
 
 Proverbs 2 closes with an assurance that wisdom doesn’t just guide—it *protects*:
 
-> “He holds success in store for the upright;  
-> He is a shield to those whose walk is blameless.”  
+> “He holds success in store for the upright; He is a shield to those whose walk is blameless.”  
 > — [*Proverbs 2:7*](https://www.biblegateway.com/passage/?search=Proverbs+2:7&version=NKJV)
 
 In uncertain times, that’s a promise to cling to. Wisdom shields you from poor choices, destructive habits, and the noise that leads others astray.  
