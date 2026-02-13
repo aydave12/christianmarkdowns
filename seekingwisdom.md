@@ -22,9 +22,9 @@ This isn’t casual advice. It’s a divine invitation; to go deeper, to slow do
 
 When the writer says, *“search for wisdom as for hidden treasure,”* he paints a vivid image of pursuit. In ancient times, treasure hunters and miners dug through layers of rock to uncover what was precious.
 
-Today, our “digging” might look different—but the principle is the same. In a fast world that values *speed over substance*, Proverbs 2 calls us to *pause, reflect, and seek truth deliberately.*
+Today, our “digging” might look different, but the principle is the same. In a fast world that values *speed over substance*, Proverbs 2 calls us to *pause, reflect, and seek truth deliberately.*
 
-Wisdom doesn’t shout over the noise—it whispers to those who will listen.
+Wisdom doesn’t shout over the noise; it whispers to those who will listen.
 
 ---
 
@@ -36,7 +36,7 @@ We can search anything on Google, but we can’t download discernment.
 > “Then you will understand the fear of the LORD and find the knowledge of God.”  
 > — [*Proverbs 2:5*](https://www.biblegateway.com/passage/?search=Proverbs+2:5&version=NKJV)
 
-This “fear” of the Lord isn’t terror—it’s reverence. It’s understanding that God’s way of seeing things is higher, clearer, and safer than ours.  
+This “fear” of the Lord isn’t terror; it’s reverence. It’s understanding that God’s way of seeing things is higher, clearer, and safer than ours.  
 True wisdom starts with aligning our thoughts and actions to His perspective.
 
 In a world where data is everywhere, **wisdom remains the filter that tells us what matters most.**
@@ -45,7 +45,7 @@ In a world where data is everywhere, **wisdom remains the filter that tells us w
 
 ## 3. How to Seek Wisdom Today
 
-Proverbs 2 outlines a roadmap for wisdom—one that fits perfectly in today’s world.
+Proverbs 2 outlines a roadmap for wisdom; one that fits perfectly in today’s world.
 
 ### 🕊️ Receive Intentionally  
 > “Accept my words and store up my commands.”
@@ -80,13 +80,13 @@ Because the quality of your life will rise or fall with the quality of your wisd
 
 ## 4. The Fruit of Wisdom
 
-Proverbs 2 closes with an assurance that wisdom doesn’t just guide—it *protects*:
+Proverbs 2 closes with an assurance that wisdom doesn’t just guide, it *protects*:
 
 > “He holds success in store for the upright; He is a shield to those whose walk is blameless.”  
 > — [*Proverbs 2:7*](https://www.biblegateway.com/passage/?search=Proverbs+2:7&version=NKJV)
 
 In uncertain times, that’s a promise to cling to. Wisdom shields you from poor choices, destructive habits, and the noise that leads others astray.  
-It doesn’t make life easy—it makes it **clearer.**
+It doesn’t make life easy; it makes it **clearer.**
 
 ---
 
@@ -95,7 +95,7 @@ It doesn’t make life easy—it makes it **clearer.**
 Seeking wisdom in today’s world might not trend on social media, but it transforms your inner life.  
 It means pausing before reacting, praying before deciding, and choosing truth over noise.
 
-Proverbs 2 teaches us that **the long way—the thoughtful, prayerful, God-led way—is still the safest route forward.**
+Proverbs 2 teaches us that **the long way—the thoughtful, prayerful, God-led way is still the safest route forward.**
 
 > “For the LORD gives wisdom; from His mouth come knowledge and understanding.”  
 > — [*Proverbs 2:6*](https://www.biblegateway.com/passage/?search=Proverbs+2:6&version=NKJV)
