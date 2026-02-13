@@ -1,0 +1,117 @@
+/* Dark Theme Styles */
+
+:root {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --heading-color: #ffffff;
+  --link-color: #6eb5ff;
+  --link-hover: #a8d5ff;
+  --code-bg: #2d2d2d;
+  --blockquote-bg: #252525;
+  --blockquote-border: #4a4a4a;
+  --accent-color: #7c9fb0;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+h1 {
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  border-bottom: 1px solid var(--blockquote-border);
+  padding-bottom: 0.3em;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+code {
+  background-color: var(--code-bg);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+pre {
+  background-color: var(--code-bg);
+  padding: 16px;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+blockquote {
+  background-color: var(--blockquote-bg);
+  border-left: 4px solid var(--blockquote-border);
+  margin: 0;
+  padding: 10px 20px;
+  font-style: italic;
+  color: var(--text-color);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--blockquote-border);
+  margin: 24px 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th,
+table td {
+  border: 1px solid var(--blockquote-border);
+  padding: 8px;
+}
+
+table th {
+  background-color: var(--code-bg);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Light theme toggle (optional) */
+@media (prefers-color-scheme: light) {
+  body.auto-theme {
+    --bg-color: #ffffff;
+    --text-color: #24292e;
+    --heading-color: #24292e;
+    --link-color: #0366d6;
+    --link-hover: #0256c7;
+    --code-bg: #f6f8fa;
+    --blockquote-bg: #f6f8fa;
+    --blockquote-border: #dfe2e5;
+  }
+}

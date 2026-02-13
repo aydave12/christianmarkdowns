@@ -1,0 +1,14 @@
+title: Christian Markdowns
+description: Seeking wisdom in a noisy world
+baseurl: ""
+url: "https://aydave12.github.io/christianmarkdowns"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+
+# Optional: Enable relative links
+relative_links:
+  enabled: true
+  collections: false

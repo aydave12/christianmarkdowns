@@ -1,3 +1,8 @@
+---
+layout: default
+title: Seeking Wisdom in a Noisy World
+---
+
 # 🕊️ Seeking Wisdom in a Noisy World: Lessons from Proverbs 2
 
 *By Ayo Oluyinka*
